@@ -1,6 +1,6 @@
 # Interactive Stopwatch Web Application
 # Overview
-This project is an Interactive Stopwatch Web Application, developed as Task 2 of the Skill Craft Technology Internship. It is a responsive, user-friendly stopwatch designed for versatile time management needs.
+This project is an Interactive Stopwatch Web Application. It is a responsive, user-friendly stopwatch designed for versatile time management needs.
 
 # Features
 Start/Stop Functionality: Allows users to start and pause the stopwatch at any time.
